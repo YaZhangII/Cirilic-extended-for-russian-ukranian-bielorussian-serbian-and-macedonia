@@ -49,6 +49,7 @@ unicode dec	unicode hex	character	name
 1232	04C0	Ӏ	Palochka-cy
 1240	04D8	Ә	Schwa-cy
 1256	04E8	Ө	Oe-cy
+1233	04C1	Ӂ	Zhebreve 
 1072	0430	а	a-cy
 1073	0431	б	be-cy
 1074	0432	в	ve-cy
@@ -96,6 +97,6 @@ unicode dec	unicode hex	character	name
 1106	0452	ђ	dje-cy
 1199	04AF	ү	ue-cy
 1211	04BB	һ	shha-cy
-1233	04C1	Ӂ	uni04C1 
 1241	04D9	ә	schwa-cy
 1257	04E9	ө	oe-cy
+1242	04C2	ӂ	zhebreve-cy
